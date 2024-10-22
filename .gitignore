@@ -1,0 +1,9 @@
+.pytest_cache
+tutorial-env
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+*.virtualenv
